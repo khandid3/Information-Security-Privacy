@@ -1,1 +1,3 @@
-# Information-Security-Privacy
+# Information Security & Privacy
+
+**MScIS, HEC Lausanne**
